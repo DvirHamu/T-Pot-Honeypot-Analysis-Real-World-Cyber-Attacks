@@ -18,9 +18,8 @@ Elasticsearch/Kibana for log analysis and visualization.
 
 **Attack Sources:** Global attacks from France, Germany, China, Ecuador, and dozens of other countries
 
-## Prerequisites:
-AWS Account with credits
-## Deployment Steps:
+
+## Deployment:
 Step 1) Launch EC2 Instance
 <img width="1603" height="853" alt="image17" src="https://github.com/user-attachments/assets/18f01b6f-ab12-4310-b745-41e6a9fbe687" />
 
