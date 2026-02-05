@@ -50,11 +50,9 @@ Step 4) Wait and analyze the logs
 ## Analysis
 ## Honeypot Overview
 Both instances received similar attack patterns across all T-Pot honeypots:
-51.16.10.89:64297 (Tel Aviv) [dashboard screenshot showing 2m events, breakdown by
-honeypot type]
-54.153.108.147:64297 (California) [dashboard screenshot showing 155k-200k events,
-breakdown by honeypot type]
+51.16.10.89:64297 (Tel Aviv) 
 
+54.153.108.147:64297 (California) 
 
 
 
